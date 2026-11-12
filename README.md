@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=CGHub%20Studio&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Web%20Developer%20%7C%20Creative%20Builder&descSize=20&descAlignY=60&animation=fadeIn" alt="header" width="100%" />
 
 <a href="https://github.com/Vann-Rithy">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Vann-Rithy;Building+modern+web+experiences;Turning+ideas+into+clean+code;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Vann-Rithy;Building+modern+web+experiences;Turning+ideas+into+clean+code;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br />
@@ -24,17 +24,17 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2336BCF7" height="26" align="top" alt="" /> About Me
 
-- 🔭 Currently working on **CGHub Studio**
-- 🌱 Learning new frameworks and sharpening my front-end skills
-- 🎨 Passionate about clean UI, animation and creative web design
-- 💬 Ask me about **web development, design, and AI tools**
-- ⚡ Fun fact: I love turning coffee into code ☕
+- <img src="https://api.iconify.design/lucide/telescope.svg?color=%2336BCF7" height="22" align="top" alt="" /> Currently working on **CGHub Studio**
+- <img src="https://api.iconify.design/lucide/sprout.svg?color=%2336BCF7" height="22" align="top" alt="" /> Learning new frameworks and sharpening my front-end skills
+- <img src="https://api.iconify.design/lucide/palette.svg?color=%2336BCF7" height="22" align="top" alt="" /> Passionate about clean UI, animation and creative web design
+- <img src="https://api.iconify.design/lucide/message-circle.svg?color=%2336BCF7" height="22" align="top" alt="" /> Ask me about **web development, design, and AI tools**
+- <img src="https://api.iconify.design/lucide/zap.svg?color=%2336BCF7" height="22" align="top" alt="" /> Fun fact: I love turning coffee into code
 
 ---
 
-## 🛠️ Languages & Tools
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2336BCF7" height="26" align="top" alt="" /> Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,python&perline=10" alt="Languages and frameworks" />
@@ -44,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2336BCF7" height="26" align="top" alt="" /> GitHub Stats
 
 <div align="center">
 
@@ -65,7 +65,7 @@
 
 ---
 
-## 📫 Connect With Me
+## <img src="https://api.iconify.design/lucide/send.svg?color=%2336BCF7" height="26" align="top" alt="" /> Connect With Me
 
 <p align="center">
   <a href="https://github.com/Vann-Rithy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
