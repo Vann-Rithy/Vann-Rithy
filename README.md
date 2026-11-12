@@ -24,9 +24,9 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2336BCF7" height="26" align="top" alt="" /> About Me
+## <img src="assets/icons/user-round.svg" height="32" align="absmiddle" alt="" /> About Me
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/%E2%97%89-Currently_working_on_CGHub_Studio-0f2027?style=for-the-badge&color=0f2027&labelColor=203a43" alt="Currently working on CGHub Studio" />
   <br />
   <img src="https://img.shields.io/badge/%E2%97%89-Learning_new_frameworks_and_sharpening_my_front--end_skills-0f2027?style=for-the-badge&color=0f2027&labelColor=203a43" alt="Learning new frameworks and sharpening my front-end skills" />
@@ -40,7 +40,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%2336BCF7" height="26" align="top" alt="" /> Languages & Tools
+## <img src="assets/icons/wrench.svg" height="32" align="absmiddle" alt="" /> Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,nodejs,python&perline=10" alt="Languages and frameworks" />
@@ -50,7 +50,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2336BCF7" height="26" align="top" alt="" /> GitHub Stats
+## <img src="assets/icons/chart-column.svg" height="32" align="absmiddle" alt="" /> GitHub Stats
 
 <div align="center">
 
@@ -71,7 +71,7 @@
 
 ---
 
-## <img src="https://api.iconify.design/lucide/send.svg?color=%2336BCF7" height="26" align="top" alt="" /> Connect With Me
+## <img src="assets/icons/send.svg" height="32" align="absmiddle" alt="" /> Connect With Me
 
 <p align="center">
   <a href="https://github.com/Vann-Rithy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
