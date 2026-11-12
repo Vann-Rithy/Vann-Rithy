@@ -26,11 +26,17 @@
 
 ## <img src="https://api.iconify.design/lucide/user-round.svg?color=%2336BCF7" height="26" align="top" alt="" /> About Me
 
-- <img src="https://api.iconify.design/lucide/telescope.svg?color=%2336BCF7" height="22" align="top" alt="" /> Currently working on **CGHub Studio**
-- <img src="https://api.iconify.design/lucide/sprout.svg?color=%2336BCF7" height="22" align="top" alt="" /> Learning new frameworks and sharpening my front-end skills
-- <img src="https://api.iconify.design/lucide/palette.svg?color=%2336BCF7" height="22" align="top" alt="" /> Passionate about clean UI, animation and creative web design
-- <img src="https://api.iconify.design/lucide/message-circle.svg?color=%2336BCF7" height="22" align="top" alt="" /> Ask me about **web development, design, and AI tools**
-- <img src="https://api.iconify.design/lucide/zap.svg?color=%2336BCF7" height="22" align="top" alt="" /> Fun fact: I love turning coffee into code
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%97%89-Currently_working_on_CGHub_Studio-0f2027?style=for-the-badge&color=0f2027&labelColor=203a43" alt="Currently working on CGHub Studio" />
+  <br />
+  <img src="https://img.shields.io/badge/%E2%97%89-Learning_new_frameworks_and_sharpening_my_front--end_skills-0f2027?style=for-the-badge&color=0f2027&labelColor=203a43" alt="Learning new frameworks and sharpening my front-end skills" />
+  <br />
+  <img src="https://img.shields.io/badge/%E2%97%89-Passionate_about_clean_UI%2C_animation_and_creative_web_design-0f2027?style=for-the-badge&color=0f2027&labelColor=203a43" alt="Passionate about clean UI, animation and creative web design" />
+  <br />
+  <img src="https://img.shields.io/badge/%E2%97%89-Ask_me_about_web_development%2C_design_and_AI_tools-0f2027?style=for-the-badge&color=0f2027&labelColor=203a43" alt="Ask me about web development, design and AI tools" />
+  <br />
+  <img src="https://img.shields.io/badge/%E2%97%89-Fun_fact%3A_I_love_turning_coffee_into_code-0f2027?style=for-the-badge&color=0f2027&labelColor=203a43" alt="Fun fact: I love turning coffee into code" />
+</p>
 
 ---
 
