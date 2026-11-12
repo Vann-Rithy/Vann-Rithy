@@ -1,18 +1,24 @@
-<!-- Replace CGRITHY below if your GitHub username is different -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=CGHub%20Studio&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Web%20Developer%20%7C%20Creative%20Builder&descSize=20&descAlignY=60&animation=fadeIn" alt="header" width="100%" />
 
-<a href="https://github.com/CGRITHY">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+CGRITHY;Building+modern+web+experiences;Turning+ideas+into+clean+code;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/Vann-Rithy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Vann-Rithy;Building+modern+web+experiences;Turning+ideas+into+clean+code;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=CGRITHY&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/CGRITHY?style=for-the-badge&logo=github&color=0f2027)
-![Stars](https://img.shields.io/github/stars/CGRITHY?style=for-the-badge&logo=github&color=203a43)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vann-Rithy/animation/main/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vann-Rithy/animation/main/github-contribution-grid-snake.svg">
+  <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/Vann-Rithy/animation/main/github-contribution-grid-snake-dark.svg">
+</picture>
+
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=Vann-Rithy&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Vann-Rithy?style=for-the-badge&logo=github&color=0f2027)
+![Stars](https://img.shields.io/github/stars/Vann-Rithy?style=for-the-badge&logo=github&color=203a43)
 
 </div>
 
@@ -42,21 +48,18 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=CGRITHY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CGRITHY&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vann-Rithy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vann-Rithy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=CGRITHY&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=Vann-Rithy&theme=tokyonight&hide_border=true" alt="Streak stats" />
 
-</div>
+<br />
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vann-Rithy&theme=tokyonight" alt="Profile details" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vann-Rithy&theme=tokyonight" alt="Repos per language" height="180" />
 
-## 🏆 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CGRITHY&theme=react-dark&hide_border=true&area=true" alt="Activity graph" width="100%" />
 </div>
 
 ---
@@ -64,7 +67,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/CGRITHY"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/Vann-Rithy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:ahpea88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <!-- Add your own links:
   <a href="https://linkedin.com/in/YOUR-NAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
