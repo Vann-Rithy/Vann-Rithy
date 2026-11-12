@@ -48,8 +48,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vann-Rithy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vann-Rithy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vann-Rithy&theme=tokyonight" alt="profile-details" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vann-Rithy&theme=tokyonight" alt="repos-per-language" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vann-Rithy&theme=tokyonight" alt="most-commit-language" height="180" />
 
 <br />
 
@@ -57,8 +58,8 @@
 
 <br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vann-Rithy&theme=tokyonight" alt="Profile details" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vann-Rithy&theme=tokyonight" alt="Repos per language" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vann-Rithy&theme=tokyonight" alt="stats" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vann-Rithy&theme=tokyonight&utcOffset=7" alt="productive-time" height="180" />
 
 </div>
 
